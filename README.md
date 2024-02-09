@@ -1,4 +1,8 @@
-# Constructify: US Ceiling Corp AI-Driven Construction Procurement Platform
+<p align="center" width="100%">
+  <img src="https://github.com/cmb6650/constructify/assets/45323286/0afb37ee-1384-4178-90b4-84445e4c5dbc" />
+</p>
+
+# Constructify: AI-Driven Construction Procurement Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
