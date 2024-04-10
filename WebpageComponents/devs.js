@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var devs = [
         { name: "Connor", github: "https://github.com/cmb6650"},
         { name: "Miguel", github: "https://github.com/Miguel0547"},
-        { name: "Brendan", github: "img_avatar.jpg"},
+        { name: "Brendan", github: "https://github.com/Bmh5877"},
         { name: "Kamron", github: "https://github.com/Kamron247"}
     ];
 
