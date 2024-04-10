@@ -3,7 +3,7 @@
     const timelineData = [
         { 
             title: "Design", 
-            timeline: "2 weeks",
+            timeline: "3 weeks",
             content: "\
                 Research and Developing Arch. Documentation \
                 Patterns considered: \
@@ -14,7 +14,7 @@
         },
         { 
             title: "Implementation",
-            timeline: "2 weeks",
+            timeline: "6 weeks",
             content: "\
                 UI/Basic Platform: 3-4 weeks \
                 Creating a UI without backend functionalities \
